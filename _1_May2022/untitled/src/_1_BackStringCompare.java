@@ -1,3 +1,5 @@
+import java.util.Stack;
+
 public class _1_BackStringCompare {
 
 //    https://leetcode.com/problems/backspace-string-compare/
