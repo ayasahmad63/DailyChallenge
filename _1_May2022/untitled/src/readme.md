@@ -5,4 +5,5 @@
 [2) Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)<br/>
 [3)Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/)<br/>
 [**4) Max Number of Sum Pair](https://leetcode.com/problems/max-number-of-k-sum-pairs/)<br/>
-[5)  Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/)
+[5)  Implement Stack using Queues ](https://leetcode.com/problems/implement-stack-using-queues/)<br/>
+[**6) Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
